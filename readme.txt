@@ -49,7 +49,7 @@ Is there a cost for the SceneChat service or plugin?
 This current beta represents SceneChat's Basic Service. Basic Service is FREE and will always remain so. There is currently a high-ceiling limit on the amount of comments and click-backs a basic account can generate per month. We'll use this beta period to help determine usage tiers. We also plan to release higher-end features such as single-user sign on, look and feel customization, an API for tighter integration, as well as more detailed analytics. 
 
 
-We expect to offer a three-tiered monthly fee - with a below $10 a month entry point.
+We expect to offer a tiered monthly fee - additional features start below $10/month, while the existing features remain free.
 
 
 == Screenshots ==
@@ -68,7 +68,7 @@ We expect to offer a three-tiered monthly fee - with a below $10 a month entry p
 
 == Upgrade Notice ==
 
-
+This is the first version.  
 
 
 == Arbitrary section ==
