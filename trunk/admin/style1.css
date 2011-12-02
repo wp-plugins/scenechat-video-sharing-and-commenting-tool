@@ -1,0 +1,23 @@
+#message12
+{
+margin-top:30px;
+color:DarkRed;
+}
+.admin_scenechat
+{
+width:700px;
+}
+.admin_scenechat_left
+{
+float:left;width:200px;margin-top: 35px;
+padding: 10px;
+}
+.admin_scenechat_right
+{
+float:right;width:400px;margin-top: 30px;
+padding: 10px;
+}
+.admin_scenechat_submit
+{
+float:right;width:400px;margin-top: 10px;
+}
