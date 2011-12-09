@@ -97,7 +97,7 @@ if(isset($_POST['Submit'])) {
 $query="select * from wp_scenechat";
 $result = mysql_query($query) or die(mysql_error());
 $uValue = "";
-if (mysql_num_rows()==0) {
+if (mysql_num_rows($result)!=0) {
   $row = mysql_fetch_array($result);
   $uValue = $row[0];
 }
