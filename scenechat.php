@@ -1,5 +1,4 @@
 <?php
-ob_start();
 /*
 Plugin Name: SceneChat Video Annotator
 Description: This plugin enables SceneChat on all compatible on-site videos (currently YouTube; Vimeo coming soon)
@@ -8,6 +7,7 @@ Version: 1.0
 Author URI: http://scenechat.com/
 */
 
+ob_start();
 if ( ! defined( 'SCENECHAT_PLUGIN_BASENAME' ) )
 	define( 'SCENECHAT_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
 
