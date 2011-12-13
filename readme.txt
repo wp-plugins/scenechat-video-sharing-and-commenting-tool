@@ -7,7 +7,7 @@ Donate link: http://scenechat.com/
 Tags: admin, commenting, facebook, flash player, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video URL, vimeo, vlog, youtube
 Requires at least: 2.0.2
 Tested up to: 3.3
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 
 SceneChat adds a social toolbar to the videos on your blog. It helps grow your traffic, boost site engagement and improve content discovery (SEO).
 
@@ -52,9 +52,9 @@ As a moderator you can delete any comment and leave comments that pop-up along t
 1. Login to the SceneChat Publisher Portal here:   
 scenechat.com/analytics
 
-2. Click .Setup. next to .Moderator..
+2. Click "Setup" next to "Moderator".
 
-3. Navigate to a SceneChat enabled video. From within the SceneChat video drop-down click the Facebook .F. to login via Facebook - you can now delete any comment, and your pop-up comments appear in orange. 
+3. Navigate to a SceneChat enabled video. From within the SceneChat video drop-down click the Facebook "F" to login via Facebook - you can now delete any comment, and your pop-up comments appear in orange. 
 
  
 == Frequently Asked Questions ==
@@ -65,7 +65,7 @@ SceneChat is a Social Video product designed for web publishers and bloggers. Sc
 
 
 **Why should I use SceneChat on my blog?**  
-SceneChat.s commenting and social sharing capabilities enables you to drive new traffic to your site, lengthen engagement time and improve content discovery (SEO). In addition, we provide a publisher's portal where you can see analytics on which content is drawing the most viewers and who your best influencers are bringing new traffic to your site.
+SceneChat's commenting and social sharing capabilities enables you to drive new traffic to your site, lengthen engagement time and improve content discovery (SEO). In addition, we provide a publisher's portal where you can see analytics on which content is drawing the most viewers and who your best influencers are bringing new traffic to your site.
 
 
 **Which video players does it support?**  
@@ -88,10 +88,11 @@ This current beta represents SceneChat's Basic Service. Basic Service is FREE an
 
 == Changelog ==
 
-= 1.1.3 = Updated text in readme to offer a better product description
-= 1.1.2 = Minor fix related to header format
+= 1.1.4 = Minor text corrections to readme.
+= 1.1.3 = Updated text in readme to offer a better product description.
+= 1.1.2 = Minor fix related to header format.
 = 1.1.1 = Fixed syntax issue causing PHP warning.
-= 1.1 = Improved PHP syntax and made readme more informative
+= 1.1 = Improved PHP syntax and made readme more informative.
 = 1.0 = Initial Version.
 
 
@@ -99,10 +100,4 @@ This current beta represents SceneChat's Basic Service. Basic Service is FREE an
 
 Changes so far are bugfixes; use the latest version.
 
-
-== Arbitrary section ==
-
-
-
-== A brief Markdown Example ==
 
