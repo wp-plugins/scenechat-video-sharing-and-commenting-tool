@@ -6,7 +6,7 @@ Donate link: http://scenechat.com/
 Tags: scenechat, video, youtube, commenting, sharing, seo
 Requires at least: 2.0.2
 Tested up to: 3.2.1
-Stable tag: 1.1
+Stable tag: 1.1.2
 
 SceneChat adds a social drop-down to the videos on your blog. It helps grow your audience, boost site engagement and improve content discovery (SEO).
 
