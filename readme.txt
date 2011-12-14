@@ -7,7 +7,7 @@ Donate link: http://scenechat.com/
 Tags: admin, commenting, facebook, flash player, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video URL, vimeo, vlog, youtube
 Requires at least: 2.0.2
 Tested up to: 3.3
-Stable tag: 1.1.4
+Stable tag: 1.1.5
 
 SceneChat adds a social toolbar to the videos on your blog. It helps grow your traffic, boost site engagement and improve content discovery (SEO).
 
@@ -23,7 +23,7 @@ All user activity is recorded within SceneChat and displayed via easy to underst
 
 SceneChat helps grow your audience, boost website engagement and improve content discovery.
 
-This WordPress Plugin represents SceneChat.s Basic Service which is Free!
+This WordPress Plugin represents SceneChat's Basic Service which is Free!
 
 
 == Installation ==
@@ -33,11 +33,11 @@ SceneChat takes about 5 minutes to install and setup.
 
 **Installation and Setup:**
 
-1. Use Wordpress. plugin installer to find and install SceneChat.  Or, if you prefer to install manually, extract the .zip into your ./wp-content/plugins. directory.
+1. Use Wordpress' plugin installer to find and install SceneChat.  Or, if you prefer to install manually, extract the .zip into your ./wp-content/plugins. directory.
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
-3. Click on .Setup. to enter your SceneChat "Account ID".
+3. Click on "Setup" to enter your SceneChat "Account ID".
 (Your SceneChat Account ID can be found in your SceneChat Welcome email.)
 
 **Congrats! The SceneChat Video Drop-down should now be visible on your videos.**
@@ -88,6 +88,7 @@ This current beta represents SceneChat's Basic Service. Basic Service is FREE an
 
 == Changelog ==
 
+= 1.1.5 = Minor syntax fixes to readme.
 = 1.1.4 = Minor text corrections to readme.
 = 1.1.3 = Updated text in readme to offer a better product description.
 = 1.1.2 = Minor fix related to header format.
