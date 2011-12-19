@@ -3,7 +3,7 @@
 Plugin Name: SceneChat Video Annotator
 Description: This plugin enables SceneChat on all compatible on-site videos (currently YouTube; Vimeo coming soon)
 Author: SceneChat
-Version: 1.1.5
+Version: 1.1.6
 Author URI: http://scenechat.com/
 */
 
