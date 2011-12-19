@@ -4,10 +4,10 @@
 
 Contributors: msales75
 Donate link: http://scenechat.com/
-Tags: admin, commenting, facebook, flash player, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video URL, vimeo, vlog, youtube
+Tags: admin, analytics, comments, facebook, flash player, plugin, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video sharing, video URL, vimeo, vlog, youtube
 Requires at least: 2.0.2
 Tested up to: 3.3
-Stable tag: 1.1.5
+Stable tag: 1.1.6
 
 SceneChat adds a social toolbar to the videos on your blog. It helps grow your traffic, boost site engagement and improve content discovery (SEO).
 
@@ -19,7 +19,7 @@ SceneChat adds time-specific commenting and social sharing capabilities to the v
 
 As a publisher focused tool, SceneChat is designed to drive traffic and engage users on your site, rather than on video portals or social networks. 
 
-All user activity is recorded within SceneChat and displayed via easy to understand charts and graphs. Learn which content is attracting the most attention and which users are drawing in others.  Comments are indexable by search engine (SEO friendly). 
+All user activity is recorded within SceneChat and displayed via easy to understand charts and graphs. Learn which content is attracting the most attention and which users are drawing in others.  Comments are indexable by search engines (SEO friendly). 
 
 SceneChat helps grow your audience, boost website engagement and improve content discovery.
 
@@ -88,6 +88,7 @@ This current beta represents SceneChat's Basic Service. Basic Service is FREE an
 
 == Changelog ==
 
+= 1.1.6 = Improved tags for search; fixed typo in readme.
 = 1.1.5 = Minor syntax fixes to readme.
 = 1.1.4 = Minor text corrections to readme.
 = 1.1.3 = Updated text in readme to offer a better product description.
