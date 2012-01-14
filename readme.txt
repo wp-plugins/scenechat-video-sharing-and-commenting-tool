@@ -1,13 +1,11 @@
-
-
 === SceneChat - Socially Ignite the Videos on Your Website ===
 
 Contributors: msales75
 Donate link: http://scenechat.com/
-Tags: admin, analytics, comments, facebook, flash player, plugin, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video sharing, video URL, vimeo, vlog, youtube
+Tags: admin, analytics, comments, facebook, flash player, plugin, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video sharing, video URL, vimeo, vlog, widget, youtube
 Requires at least: 2.0.2
 Tested up to: 3.3
-Stable tag: 1.1.6
+Stable tag: 1.1.7
 
 SceneChat adds a social toolbar to the videos on your blog. It helps grow your traffic, boost site engagement and improve content discovery (SEO).
 
@@ -15,13 +13,17 @@ SceneChat adds a social toolbar to the videos on your blog. It helps grow your t
 == Description ==
 
 
-SceneChat adds time-specific commenting and social sharing capabilities to the videos on your blog. You can call attention to specific scenes within a video, enable your audience to leave comments at any point, indicate scenes they like, and share scenes with their friends on Facebook and Twitter. 
+SceneChat enables social engagement and promotion of the videos on your site. Now your visitors can add and share time-specific comments tied to specific times in your videos. Additionally, as the publisher you can add "Moderator pop-ups" that call attention to specific scenes within a video. 
 
-As a publisher focused tool, SceneChat is designed to drive traffic and engage users on your site, rather than on video portals or social networks. 
+Visitors while watching can Facebook share or Tweet any comment or even add one of their own. Shared scenes draw followers to the exact moment shared. 
 
-All user activity is recorded within SceneChat and displayed via easy to understand charts and graphs. Learn which content is attracting the most attention and which users are drawing in others.  Comments are indexable by search engines (SEO friendly). 
+Clicking any comment also jumps directly to that spot in the video. Our graphical SceneMark icons give instant feedback as what fans like (or dislike).
 
-SceneChat helps grow your audience, boost website engagement and improve content discovery.
+Designed for publishers and content promoters, SceneChat is meant to engage your viewers enabling them to socially promote the videos you embed on your site.
+
+On the backend, all user activity is recorded and displayed in our secure "publisher portal". You can login and review easy to understand analytics letting you exactly which content is attracting the most attention, and which users are the most influential.  We even make all comments indexable by search engines (SEO friendly). 
+
+SceneChat is the easiest way to socially ignite your videos - it helps grow your audience, boost website engagement and improve content discovery.
 
 This WordPress Plugin represents SceneChat's Basic Service which is Free!
 
@@ -72,10 +74,10 @@ SceneChat's commenting and social sharing capabilities enables you to drive new 
 Our current beta supports YouTube. We will add additional players such as Vimeo and JWPlayer in subsequent releases. If you have a specific player you would like to see us support drop us a line at info@scenechat.com
 
 **What else is coming down the road?**  
-Scenechat will be continuing to add functionality, allowing you to improve advertising inventory and revenues tied to points of interest in videos, as well as creating deeper engagement between your audience and your website via your video offerings
+We are very customer publisher centric, adding functionality that enables our customers to maximize the reach and impact of their videos. Some future enhancements include: adding new advertising inventory tied to points of interest in videos, as well as creating deeper engagement between your audience and your website via your time-based interactivity.
 
 **Is there a cost for the SceneChat service or plugin?**  
-This current beta represents SceneChat's Basic Service. Basic Service is FREE and will always remain so. We'll use this beta period to help determine usage tiers. We also plan to release higher-end features such as single-user sign on, look and feel customization, an API for tighter integration, as well as more detailed analytics.
+This current beta represents SceneChat's Basic Service. Our Basic Service is FREE and will always remain so. We'll use this beta period to help determine usage tiers and feature interest. We also plan to release higher-end features such as single-user sign on, look and feel customization, an API for tighter integration, as well as more detailed analytics.
 
 
 == Screenshots ==
@@ -88,6 +90,7 @@ This current beta represents SceneChat's Basic Service. Basic Service is FREE an
 
 == Changelog ==
 
+= 1.1.7 = Updated documentation to reflect latest features in web-app.
 = 1.1.6 = Improved tags for search; fixed typo in readme.
 = 1.1.5 = Minor syntax fixes to readme.
 = 1.1.4 = Minor text corrections to readme.
@@ -100,6 +103,5 @@ This current beta represents SceneChat's Basic Service. Basic Service is FREE an
 
 == Upgrade Notice ==
 
-Changes so far are bugfixes; use the latest version.
-
+Changes so far are bugfixes and documentation enhancements.
 
