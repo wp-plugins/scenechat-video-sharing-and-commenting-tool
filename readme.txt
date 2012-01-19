@@ -5,7 +5,7 @@ Donate link: http://scenechat.com/
 Tags: admin, analytics, comments, facebook, flash player, plugin, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video sharing, video URL, vimeo, vlog, widget, youtube
 Requires at least: 2.0.2
 Tested up to: 3.3
-Stable tag: 1.2
+Stable tag: 1.2.1
 
 SceneChat adds a social toolbar to the YouTube and Vimeo videos on your site. It helps grow your traffic, boost site engagement and improve content discovery (SEO).
 
@@ -86,6 +86,7 @@ This current beta represents SceneChat's Basic Service. Our Basic Service is FRE
 
 
 == Changelog ==
+= 1.2.1 = Fixed typo in title.
 = 1.2 = Added support for Vimeo.
 = 1.1.7 = Added social sharing capabilities to comment pop-ups.
 = 1.1.6 = Improved tags for search; fixed typo in readme.
@@ -100,6 +101,6 @@ This current beta represents SceneChat's Basic Service. Our Basic Service is FRE
 
 == Upgrade Notice ==
 
-Upgrade is recommended but optional between 1.1.2 and 1.2.
+Upgrade is recommended but optional between 1.1.2 and 1.2.1.
 
 
