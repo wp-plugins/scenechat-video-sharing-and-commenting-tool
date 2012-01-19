@@ -5,28 +5,25 @@ Donate link: http://scenechat.com/
 Tags: admin, analytics, comments, facebook, flash player, plugin, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video sharing, video URL, vimeo, vlog, widget, youtube
 Requires at least: 2.0.2
 Tested up to: 3.3
-Stable tag: 1.1.7
+Stable tag: 1.2
 
-SceneChat adds a social toolbar to the videos on your blog. It helps grow your traffic, boost site engagement and improve content discovery (SEO).
+SceneChat adds a social toolbar to the YouTube and Vimeo videos on your site. It helps grow your traffic, boost site engagement and improve content discovery (SEO).
 
 
 == Description ==
 
 
-SceneChat enables social engagement and promotion of the videos on your site. Now your visitors can add and share time-specific comments tied to specific times in your videos. Additionally, as the publisher you can add "Moderator pop-ups" that call attention to specific scenes within a video. 
+SceneChat enables social engagement and promotion of the videos on your site. Now your visitors can comment on and share your videos with their social community via time-specific comments tied to specific scenes. Additionally, as the publisher you can add .Moderator pop-ups. that call-out specific points or moments. 
 
-Visitors while watching can Facebook share or Tweet any comment or even add one of their own. Shared scenes draw followers to the exact moment shared. 
+Clicking on a comment or a shared scene draws followers to that exact moment in the video. Add a SceneMark icon to give instant feedback whether you like (or dislike) a scene.
 
-Clicking any comment also jumps directly to that spot in the video. Our graphical SceneMark icons give instant feedback as what fans like (or dislike).
+SceneChat was designed for publishers seeking to engage their audiences - enabling them to socially promote the videos on your site.
 
-Designed for publishers and content promoters, SceneChat is meant to engage your viewers enabling them to socially promote the videos you embed on your site.
+On the back-end, SceneChat captures all user activity and displays the results in easy to understand charts and graphs. Learn exactly which videos are attracting the most attention and which users are helping to spread the word. We even do our part to help with content discovery by making all comments indexable by search engines (SEO friendly). 
 
-On the backend, all user activity is recorded and displayed in our secure "publisher portal". You can login and review easy to understand analytics letting you exactly which content is attracting the most attention, and which users are the most influential.  We even make all comments indexable by search engines (SEO friendly). 
-
-SceneChat is the easiest way to socially ignite your videos - it helps grow your audience, boost website engagement and improve content discovery.
+SceneChat is the easiest way to socially ignite your videos - it helps boost website engagement, grow your audience, and improve content discovery - download SceneChat and get started today!
 
 This WordPress Plugin represents SceneChat's Basic Service which is Free!
-
 
 == Installation ==
 
@@ -56,7 +53,7 @@ scenechat.com/analytics
 
 2. Click "Setup" next to "Moderator".
 
-3. Navigate to a SceneChat enabled video. From within the SceneChat video drop-down click the Facebook "F" to login via Facebook - you can now delete any comment, and your pop-up comments appear in orange. 
+3. Navigate to a SceneChat enabled video. From within the SceneChat video drop-down click the Facebook "F" to login via Facebook - you can now delete any comment, and your pop-up comments appear in grey. 
 
  
 == Frequently Asked Questions ==
@@ -71,10 +68,10 @@ SceneChat's commenting and social sharing capabilities enables you to drive new 
 
 
 **Which video players does it support?**  
-Our current beta supports YouTube. We will add additional players such as Vimeo and JWPlayer in subsequent releases. If you have a specific player you would like to see us support drop us a line at info@scenechat.com
+Our current beta supports YouTube and Vimeo. Our plan is to support other players such as JWPlayer and FlowPlayer in subsequent releases. If you have a specific player you would like to see us support drop us a line at info@scenechat.com
 
 **What else is coming down the road?**  
-We are very customer publisher centric, adding functionality that enables our customers to maximize the reach and impact of their videos. Some future enhancements include: adding new advertising inventory tied to points of interest in videos, as well as creating deeper engagement between your audience and your website via your time-based interactivity.
+We are very publisher centric and focused on adding functionality that enables our customers to maximize the reach and impact of their videos. Some future enhancements include: adding time-based interactivity, new advertising inventory tied to points of interest in videos, as well as creating deeper engagement between your audience and your website via your time-based interactivity.
 
 **Is there a cost for the SceneChat service or plugin?**  
 This current beta represents SceneChat's Basic Service. Our Basic Service is FREE and will always remain so. We'll use this beta period to help determine usage tiers and feature interest. We also plan to release higher-end features such as single-user sign on, look and feel customization, an API for tighter integration, as well as more detailed analytics.
@@ -89,8 +86,8 @@ This current beta represents SceneChat's Basic Service. Our Basic Service is FRE
 
 
 == Changelog ==
-
-= 1.1.7 = Updated documentation to reflect latest features in web-app.
+= 1.2 = Added support for Vimeo.
+= 1.1.7 = Added social sharing capabilities to comment pop-ups.
 = 1.1.6 = Improved tags for search; fixed typo in readme.
 = 1.1.5 = Minor syntax fixes to readme.
 = 1.1.4 = Minor text corrections to readme.
@@ -103,5 +100,6 @@ This current beta represents SceneChat's Basic Service. Our Basic Service is FRE
 
 == Upgrade Notice ==
 
-Changes so far are bugfixes and documentation enhancements.
+Upgrade is recommended but optional between 1.1.2 and 1.2.
+
 
