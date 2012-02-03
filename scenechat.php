@@ -3,7 +3,7 @@
 Plugin Name: SceneChat Social Video Toolbar
 Description: This plugin enables SceneChat on all compatible on-site videos (currently YouTube and Vimeo)
 Author: SceneChat
-Version: 1.2.1
+Version: 1.2.2
 Author URI: http://scenechat.com/
 */
 
