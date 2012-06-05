@@ -2,28 +2,40 @@
 
 Contributors: msales75
 Donate link: http://scenechat.com/
-Tags: admin, analytics, comments, facebook, flash player, plugin, scenechat, sharing, seo, vseo, social tv, social video, social video marketing, social video sharing, timed comments, twitter, video, video comments, video sharing, video URL, vimeo, vlog, widget, youtube
+Tags: admin, analytics, comments, Facebook, flash player, Interactive, plugin, scenechat, seo, sharing, Social TV, social video, social video, marketing, social video sharing, timed comments, twitter, video, video comments, video sharing, video URL, vimeo, vlog, vseo, widget, youtube
 Requires at least: 2.0.2
 Tested up to: 3.3
-Stable tag: 1.2.2
+Stable tag: 2.0.0
 
-SceneChat adds a social toolbar to the YouTube and Vimeo videos on your site. It helps grow your traffic, boost site engagement and improve SEO.
+SceneChat adds an interactive social toolbar to the videos on your site. It
+helps engage your audience, grow your traffic, and drive conversion.
 
 
 == Description ==
 
+SceneChat is a self-serve solution for marketers looking to increase video
+engagement and conversions. The platform provides the easiest, most flexible
+solution for creating, publishing and analyzing interactive social video
+marketing campaigns - without the need for video editors or Flash developers.
 
-SceneChat enables social engagement and promotion of the videos on your site. Now your visitors can comment on and share your videos with their social community via time-specific comments tied to specific scenes. Additionally, as the publisher you can add .Moderator pop-ups. that call-out specific points or moments. 
+SceneChat enables the creation of interactive experiences that can be synced
+to specific scenes within a video, engaging audiences as they consume content.
+Interactions can be timed messages or questions, graphics, URL links, polls,
+or multiple choice questions that can navigate a video. With SceneChat,
+marketers are able to design sophisticated interactions that engage audiences
+at the best time during video consumption - providing scene-relevant
+interaction that gathers data while driving conversions.
 
-Clicking on a comment or a shared scene draws followers to that exact moment in the video. Add a SceneMark icon to give instant feedback whether you like (or dislike) a scene.
+SceneChat experiences can be broadly distributed via Facebook or Twitter, or
+directly embedded on a publisher's site or blog.  In addition, the company
+offers both a WordPress plugin and on-site code that enables experiences to be
+directly published onto a site.
 
-SceneChat was designed for publishers seeking to engage their audiences - enabling them to socially promote the videos on your site.
-
-On the back-end, SceneChat captures all user activity and displays the results in easy to understand charts and graphs. Learn exactly which videos are attracting the most attention and which users are helping to spread the word. We even do our part to help with content discovery by making all comments indexable by search engines (SEO friendly). 
-
-SceneChat is the easiest way to socially ignite your videos - it helps boost website engagement, grow your audience, and improve content discovery - download SceneChat and get started today!
-
-This WordPress Plugin represents SceneChat's Basic Service which is Free!
+A free trial is available enabling anyone to start  an account and instantly
+create and deploy interactive videos for 30 days without restriction. After 30
+days customers can continue using  the service for as little as $10 per month.
+A "Forever-Free" option is available for users with less than 200 views per
+month.
 
 == Installation ==
 
@@ -60,22 +72,31 @@ scenechat.com/analytics
 
 
 **What is SceneChat?**  
-SceneChat is a Social Video product designed for web publishers and bloggers. SceneChat adds a social toolbar to embedded videos on a website. This enables you to call out special scenes within your videos, as well enable your site's audience to comment on, start discussions and share their favorite moments with their social network (or via email).
-
+SceneChat is a social video marketing platform designed for brands, agencies
+and publishers. SceneChat adds a social toolbar to embedded videos on a
+website. This enables you to add time-based interactivity such as polls,
+messages and navigation to scenes within your videos. Interactive experiences
+can be shared within your social network or hosted on your site or blog.
 
 **Why should I use SceneChat on my blog?**  
-SceneChat's commenting and social sharing capabilities enables you to drive new traffic to your site, lengthen engagement time and improve content discovery (SEO). In addition, we provide a publisher's portal where you can see analytics on which content is drawing the most viewers and who your best influencers are bringing new traffic to your site.
-
+SceneChat's interactivity and social sharing capabilities enables you to keep
+audiences engaged, gather data and drive new traffic to your site. In
+addition, we provide a data dashboard where you can see responses, viewing and
+sharing analytics. SceneChat provides insight into which content is drawing
+the most viewers and who your best influencers are bringing new traffic to
+your site.
 
 **Which video players does it support?**  
-Our current beta supports YouTube and Vimeo. Our plan is to support other players such as JWPlayer and FlowPlayer in subsequent releases. If you have a specific player you would like to see us support drop us a line at info@scenechat.com
-
-**What else is coming down the road?**  
-We are very publisher centric and focused on adding functionality that enables our customers to maximize the reach and impact of their videos. Some future enhancements include: adding time-based interactivity, new advertising inventory tied to points of interest in videos, as well as creating deeper engagement between your audience and your website via your time-based interactivity.
+Our current release supports YouTube. We are working on Vimeo. Our plan is to
+support other players such as JWPlayer and FlowPlayer in subsequent releases.
+If you have a specific player you would like to see us support drop us a line
+at info@scenechat.com
 
 **Is there a cost for the SceneChat service or plugin?**  
-This current beta represents SceneChat's Basic Service. Our Basic Service is FREE and will always remain so. We'll use this beta period to help determine usage tiers and feature interest. We also plan to release higher-end features such as single-user sign on, look and feel customization, an API for tighter integration, as well as more detailed analytics.
-
+SceneChat costs as little as $10 per month - depending on video views. Higher
+tiered options are available for more video views. We provide a Forever Free
+option for users serving under 200 views per month. Visit SceneChat.com for
+full list of prices.
 
 == Screenshots ==
 
@@ -86,6 +107,7 @@ This current beta represents SceneChat's Basic Service. Our Basic Service is FRE
 
 
 == Changelog ==
+= 2.0.0 = New interactive features allowing custom-tailored video campaigns.
 = 1.2.2 = Enabled vimeo videos to start playing in the middle when shared.
 = 1.2.1 = Fixed typo in title.
 = 1.2 = Added support for Vimeo.
